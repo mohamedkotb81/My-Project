@@ -1,0 +1,104 @@
+p {
+
+   color: hsl(340, 44%, 36%);
+   font-size: 20px;
+   font-weight: 300;
+
+
+}
+.nadin{
+    color: lime;
+
+
+}
+.yasmin{
+    color: rgb(0, 183, 255);
+
+
+}
+
+#test3{
+
+    color: rgb(113, 6, 143);
+}
+
+div p{
+    color: rgb(87, 7, 7);
+    font-size: 20px;
+    font-weight: 300;
+ 
+}
+h2{
+color: darkmagenta;
+font-size: 33px;
+}
+
+ul{
+
+    color: rgb(6, 147, 150);
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 35px;
+ 
+}
+
+ol{
+    color: rgb(236, 19, 182);
+    font-size: 25px;
+    font-weight: 300;
+    letter-spacing: 3px;
+    border-left: rgb(230, 76, 49);
+    padding-left: 5cm;
+    padding-top: 1cm;
+ 
+}
+a{
+    color: rgb(17, 50, 238);
+}
+
+h1{
+    color: rgb(95, 5, 5);
+    font-size: 43px;
+    
+
+}
+
+input{
+    background: navajowhite;
+    color: saddlebrown;
+}
+
+input[type="password"]{
+    background: rgb(79, 240, 39);
+    color: rgb(2, 90, 90);
+}
+
+input[type="submit"]{
+    background: rgb(218, 114, 17);
+}
+
+.x{
+    width: 100%;
+    background: rgb(65, 3, 8);
+    border-style: double;
+    border-color: black;
+
+}
+.x1{
+    width: 400px;
+    height: 500px;
+    background-color: tomato;
+    background-image: url("nido.jpg");
+    background-size: 150px 150px;
+    background-repeat: no-repeat;
+    background-position: 50px 70px;
+    border-style: double;
+    border-color: black;
+    border-width: 0.5cm;
+
+}
+a{
+    text-decoration: line-through;
+    color: magenta;
+    cursor: crosshair;
+}
